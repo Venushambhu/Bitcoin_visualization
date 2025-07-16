@@ -3,6 +3,6 @@ This project analyzes Bitcoin's historical price data (2013–2021) to uncover t
 
 How to run 
 
-Make sure you have Anaconda or mini conda
-Using pip install dependencies or requriements 
-run with the statement Streamlit run App.py
+Make sure you have Anaconda or mini conda,
+Using pip install command  Install dependencies or requriements ,
+Run with the command - Streamlit run App.py
